@@ -3,7 +3,7 @@
 源变更通知：  
 1. 原 Cloudflare R2 主域名 `jnuexam.xyz` 出现证书/绑定异常，暂无法访问，现将其降级为备用源。  
 2. Cloudflare R2 主源切换为 `jnuexamfile.gubaiovo.com`（与原主源为同一存储桶，文件完全一致）。  
-3. 索引与源列表中 `cf_url` 已指向新主源，`cf_url_test` 指向待恢复的 `jnuexam.xyz`；资料本体无任何变动。  
+3. 索引中 `cf_url` 已指向新主源；`cf_url_test` 暂同样指向新主源，以保证原有"测试"源继续可用，待 `jnuexam.xyz` 恢复后再切回。资料本体无任何变动。  
 4. 请尽快将下载器更新至最新源列表，或在源设置中手动填写 `https://jnuexamfile.gubaiovo.com/source_list.json`。  
 
 注意：如果您使用的是 float 镜像源（`https://jnuexam.142751.xyz`），该镜像索引内也引用了旧域名，请联系镜像维护者同步更新。
