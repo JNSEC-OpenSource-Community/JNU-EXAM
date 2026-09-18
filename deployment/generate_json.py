@@ -47,6 +47,14 @@ def load_sources():
         {
             "name": "CloudFlare R2",
             "key": "cf_url",
+            "base": "https://jnuexamfile.gubaiovo.com",
+            "json_url": "https://jnuexamfile.gubaiovo.com/directory_structure.json",
+            "type": "tree",
+            "enabled": True
+        },
+        {
+            "name": "CloudFlare R2 备用",
+            "key": "cf_url_test",
             "base": "https://jnuexam.xyz",
             "json_url": "https://jnuexam.xyz/directory_structure.json",
             "type": "tree",

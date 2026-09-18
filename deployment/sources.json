@@ -8,10 +8,17 @@
   },
   {
     "name": "Cloudflare R2",
+    "base": "https://jnuexamfile.gubaiovo.com",
+    "json_url": "https://jnuexamfile.gubaiovo.com/directory_structure.json",
+    "type": "tree",
+    "key": "cf_url"
+  },
+  {
+    "name": "Cloudflare R2 备用",
     "base": "https://jnuexam.xyz",
     "json_url": "https://jnuexam.xyz/directory_structure.json",
     "type": "tree",
-    "key": "cf_url"
+    "key": "cf_url_test"
   },
   {
     "name": "本地测试",

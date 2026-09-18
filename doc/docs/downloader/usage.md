@@ -33,9 +33,9 @@ Web 端下载器直接访问 [https://jnuexam.gubaiovo.com/download/index.html](
 
 1. Vercel（新版默认）：`https://jnuexam.gubaiovo.com/source_list.json`  
 2. Vercel（停用）：`https://www.gubaiovo.com/jnu-exam/source_list.json`    
-3. Cloudflare R2: `https://jnuexam.xyz/source_list.json`  
+3. Cloudflare R2: `https://jnuexamfile.gubaiovo.com/source_list.json`  
 4. Floating提供: `https://jnuexam.142751.xyz/source_list.json`  
-5. Cloudflare R2 测试: `https://jnuexamfile.gubaiovo.com/source_list.json`  
+5. Cloudflare R2 备用: `https://jnuexam.xyz/source_list.json`（该域名证书异常，暂时不可用，待恢复）  
 
 ## 2. 选择下载源
 
