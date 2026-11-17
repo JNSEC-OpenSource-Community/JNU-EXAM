@@ -22,7 +22,7 @@ Web 端下载器直接访问 [https://jnuexam.gubaiovo.com/download/index.html](
 
 ## 1. 查看下载源
 
-下载器默认从 [Vercel](https://www.gubaiovo.com/jnu-exam/source_list.json) 获取下载源列表，此源较为稳定。
+下载器默认从 [Vercel](https://jnuexam.gubaiovo.com/source_list.json) 获取下载源列表，此源较为稳定。
 
 您也可以根据需要，在下载器中手动更换获取下载源列表的链接（URL）：
 
@@ -35,7 +35,7 @@ Web 端下载器直接访问 [https://jnuexam.gubaiovo.com/download/index.html](
 2. Vercel（停用）：`https://www.gubaiovo.com/jnu-exam/source_list.json`    
 3. Cloudflare R2: `https://jnuexamfile.gubaiovo.com/source_list.json`  
 4. Floating提供: `https://jnuexam.142751.xyz/source_list.json`  
-5. Cloudflare R2 备用: `https://jnuexam.xyz/source_list.json`（该域名证书异常，暂不可用，待恢复）  
+5. Cloudflare 镜像（sadsnowcat）: `https://r2.sadsnowcat.com/source_list.json`  
 
 ## 2. 选择下载源
 

@@ -63,7 +63,7 @@ JNU-EXAM/
 如有任何问题、建议或侵权投诉，请通过如下方式联系：
 - QQ: `470014599`
 - Email: `gubaibai.ovo@gmail.com` / `470014599@qq.com`
-- GitHub Issues: [提交反馈](https://www.google.com/search?q=https://github.com/gubaiovo/JNU-EXAM/issues)
+- GitHub Issues: [提交反馈](https://github.com/gubaiovo/JNU-EXAM/issues)
 
 ### 📄 协议
 

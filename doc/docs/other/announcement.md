@@ -1,4 +1,13 @@
 # 公告区
+## 2026/11/17  
+源变更通知：  
+1. 原 Cloudflare R2 域名 `jnuexam.xyz` 将于 **2026 年 11 月 24 日到期，且不再续费**，届时该域名彻底失效。资料本体不受影响，文件始终存放在同一个存储桶内。  
+2. 新增独立镜像源 `r2.sadsnowcat.com`，独立账号、独立域名，不依赖 `gubaiovo.com`，内容与主源完全一致，用于在主源不可用时接管。  
+3. 索引中 `cf_url_test` 已指向上面的镜像，源列表的「Cloudflare R2 备用」条目同步更新。使用默认源列表的下载器会自动拿到新地址，无需任何操作。  
+4. 如果您曾在下载器里**手动填写**过 `https://jnuexam.xyz/source_list.json`，请改为 `https://jnuexam.gubaiovo.com/source_list.json` 或 `https://r2.sadsnowcat.com/source_list.json`。  
+
+注意：float 镜像源（`https://jnuexam.142751.xyz`）的索引内仍引用 `jnuexam.xyz`，11 月 24 日后该镜像将无法下载，需镜像维护者自行更新。
+
 ## 2026/09/18  
 源变更通知：  
 1. 原 Cloudflare R2 主域名 `jnuexam.xyz` 出现证书/绑定异常，暂无法访问，现将其降级为备用源。  

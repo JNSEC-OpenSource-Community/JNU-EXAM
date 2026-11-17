@@ -8,7 +8,7 @@
         "file_key": "cf_url"
     },
     "Cloudflare R2 备用": {
-        "json_url": "https://jnuexam.xyz/directory_structure.json",
+        "json_url": "https://r2.sadsnowcat.com/directory_structure.json",
         "file_key": "cf_url_test"
     },
     "float": {

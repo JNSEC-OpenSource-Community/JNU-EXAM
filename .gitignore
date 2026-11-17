@@ -1,0 +1,12 @@
+bigfile
+.upload_cache
+# 以 . 开头的文件或目录将被忽略，例如
+.new_files_for_lanzou
+.DS_Store
+Thumbs.db
+node_modules
+cache
+dist
+__pycache__
+*.pyc
+.git

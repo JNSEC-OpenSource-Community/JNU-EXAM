@@ -55,8 +55,8 @@ def load_sources():
         {
             "name": "CloudFlare R2 备用",
             "key": "cf_url_test",
-            "base": "https://jnuexam.xyz",
-            "json_url": "https://jnuexam.xyz/directory_structure.json",
+            "base": "https://r2.sadsnowcat.com",
+            "json_url": "https://r2.sadsnowcat.com/directory_structure.json",
             "type": "tree",
             "enabled": True
         }

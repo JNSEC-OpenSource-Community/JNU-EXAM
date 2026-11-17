@@ -8,7 +8,7 @@
 
 **JNU-EXAM 默认source_list**：[https://jnuexam.gubaiovo.com/source_list.json](https://jnuexam.gubaiovo.com/source_list.json)  
 
-**JNU-EXAM 服务状态**：[https://kuma.gubaiovo.com/status/jnuexam](https://kuma.gubaiovo.com/status/jnuexam)  
+**JNU-EXAM 服务状态**：[https://kuma.gubaiovo.com/status/jnuexam](https://kuma.gubaiovo.com/status/jnuexam)（维护中，当前可能无法访问）  
 
 **JNU-EXAM WEB下载器**：[https://jnuexam.gubaiovo.com/download/index.html](https://jnuexam.gubaiovo.com/download/index.html)  
 
